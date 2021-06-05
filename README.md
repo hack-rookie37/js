@@ -1,7 +1,7 @@
-# node-js
+# js
 
 ### javascript practices
 
 Javascript Syntax  
 
-for React native projects
+React, Node.js
